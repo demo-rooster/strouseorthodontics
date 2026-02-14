@@ -1,80 +1,77 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Strouse Orthodontics",
+  "domain": "strouseorthodontics.com",
+  "email": "hello@strouseorthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(352) 688-0331",
+    "href": "tel:+13526880331",
+    "aria": "3 5 2, 6 8 8, 0 3 3 1"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Spring Hill Office",
       "address": {
-        "street": "9650 Main Street",
+        "street": "1222 Mariner Blvd.",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Spring Hill, FL 34609",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-82.5392023",
+          "latitude": "28.4525193"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(352) 688-0331",
+        "href": "tel:+13526880331"
       },
-      "email": "info@mandtortho.com",
+      "email": "hello@strouseorthodontics.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "9:00am - 5:00pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00am - 5:00pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=1222+Mariner+Blvd+Spring+Hill+FL+34609",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Free parking, ADA accessible, same-day consults available"
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Lecanto Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "573 N Dacie Point",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Lecanto, FL 34461",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-82.4895616",
+          "latitude": "28.8714982"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(352) 527-9927",
+        "href": "tel:+13525279927"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "hello@strouseorthodontics.com",
+      "hours": [
+        {
+          "day": "Tues",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Thurs",
+          "time": "9:00am - 5:00pm"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://goo.gl/maps/rkduFeod1HWDQELu6",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Free parking, ADA accessible, same-day consults available"
     }
   ],
   "typography": [
@@ -90,32 +87,32 @@
   "top_bar": {
     "enable_top_bar": false,
     "type": "links",
-    "theme": "dark",
+    "theme": "light",
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "1222 Mariner Blvd, Spring Hill, FL 34609",
+        "href": "https://www.google.com/maps/search/?api=1&query=1222+Mariner+Blvd+Spring+Hill+FL+34609",
+        "label": "View 1222 Mariner Blvd, Spring Hill, FL 34609 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(352) 688-0331",
+        "href": "tel:+13526880331",
+        "label": "Call (352) 688-0331",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule a Consultation",
+      "text": "Schedule a complimentary consultation at our Spring Hill or Lecanto office. Call or book online.",
+      "mobile_text": "Schedule a Consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule a Consultation",
+        "text": "<p>We offer complimentary consultations at two convenient locations (Spring Hill and Lecanto). Ask about Invisalign®, clear braces, early two-phase treatment, and flexible financing options.</p>"
       }
     }
   },
@@ -124,21 +121,21 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
+          "href": "https://edgebooking.ortho2.com/search?catalog=5be7c57e-a809-479a-bf8e-01b39d4e76ab&code=qsbsjz",
+          "path": "",
+          "hash": "",
+          "external": true,
           "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
       }
     ],
-    "floating": false
+    "floating": true
   },
   "primary_cta": {
     "label": "Schedule Consultation",
@@ -150,20 +147,32 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/strouseortho",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/strouseortho/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=Ca69CuWqHCw",
         "icon": "youtube"
+      },
+      {
+        "href": "https://www.tiktok.com/@strouse_orthodontics",
+        "icon": "tiktok"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Strouse Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.strouseorthodontics.com/images/banner/banner1.jpg",
       "webp": "",
-      "alt": "",
+      "alt": "Strouse Orthodontics",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +180,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }
