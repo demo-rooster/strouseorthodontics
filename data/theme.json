@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 255,
+          "green": 113,
+          "blue": 1,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#FF7101",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.33,
+          "luminancePercent": "33%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.61,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 191,
+          "green": 84,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#bf5400",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.17,
+          "luminancePercent": "17%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.68,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 44,
+          "green": 91,
+          "blue": 121,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2C5B79",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.09,
+          "luminancePercent": "9%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 7.29,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 44,
+          "green": 91,
+          "blue": 121,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2C5B79",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.09,
+          "luminancePercent": "9%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 7.29,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 191,
+          "green": 84,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#bf5400",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.17,
+          "luminancePercent": "17%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.68,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Sarabun', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://www.strouseorthodontics.com/assets/images/logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://www.strouseorthodontics.com/assets/images/logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#dd5d05",
+          "luminosity_percent": 23,
+          "count": 126
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#dc5c05",
+          "luminosity_percent": 23,
+          "count": 123
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#dc5d05",
+          "luminosity_percent": 23,
+          "count": 68
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#dd5c05",
+          "luminosity_percent": 23,
+          "count": 44
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
+          "hex": "#de5d05",
+          "luminosity_percent": 23,
+          "count": 31
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#e25f05",
+          "luminosity_percent": 24,
+          "count": 17
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#db5c05",
+          "luminosity_percent": 23,
+          "count": 16
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#e05e05",
+          "luminosity_percent": 24,
+          "count": 16
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#df5e05",
+          "luminosity_percent": 24,
+          "count": 15
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#e56005",
+          "luminosity_percent": 25,
+          "count": 14
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#dd5d05",
+      "avg_luminosity": 23.2,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://www.strouseorthodontics.com/assets/images/favicon.png"
   }
 }
